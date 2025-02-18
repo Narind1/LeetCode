@@ -18,6 +18,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Narind1/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Narind1/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Narind1/LeetCode/tree/master/0013-roman-to-integer) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
