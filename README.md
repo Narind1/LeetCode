@@ -44,6 +44,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Narind1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Narind1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Narind1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Sliding Window
 |  |
@@ -57,4 +58,8 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Narind1/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
