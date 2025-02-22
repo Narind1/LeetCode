@@ -1,6 +1,6 @@
 class Solution:
     def addTwoNumbers(self, l1, l2):
-        dummy = ListNode(0)  # Use the provided ListNode class
+        dummy = ListNode(0)  
         current = dummy
         carry = 0
         
