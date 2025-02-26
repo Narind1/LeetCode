@@ -26,6 +26,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0007-reverse-integer](https://github.com/Narind1/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Narind1/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Narind1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Narind1/LeetCode/tree/master/0029-divide-two-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -74,4 +75,8 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Narind1/LeetCode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Narind1/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
