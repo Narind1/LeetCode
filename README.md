@@ -9,6 +9,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0001-two-sum](https://github.com/Narind1/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Narind1/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Narind1/LeetCode/tree/master/0027-remove-element) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
@@ -72,6 +73,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Narind1/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Narind1/LeetCode/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
