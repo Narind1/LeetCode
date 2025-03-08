@@ -11,6 +11,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0011-container-with-most-water](https://github.com/Narind1/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Narind1/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
@@ -64,6 +65,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
