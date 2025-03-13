@@ -13,6 +13,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0027-remove-element](https://github.com/Narind1/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Narind1/LeetCode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Narind1/LeetCode/tree/master/0066-plus-one) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
@@ -33,6 +34,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0013-roman-to-integer](https://github.com/Narind1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Narind1/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Narind1/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Narind1/LeetCode/tree/master/0066-plus-one) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
