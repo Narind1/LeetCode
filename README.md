@@ -64,6 +64,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Narind1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0020-valid-parentheses) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +100,9 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
