@@ -63,6 +63,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0014-longest-common-prefix](https://github.com/Narind1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Narind1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Narind1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -88,6 +89,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0011-container-with-most-water](https://github.com/Narind1/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Narind1/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Narind1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Narind1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
