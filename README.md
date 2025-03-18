@@ -38,6 +38,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0050-powx-n](https://github.com/Narind1/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Narind1/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -80,6 +81,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
