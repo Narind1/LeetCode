@@ -39,6 +39,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0066-plus-one](https://github.com/Narind1/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -125,4 +126,12 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
