@@ -15,6 +15,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0041-first-missing-positive](https://github.com/Narind1/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Narind1/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -26,6 +27,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0013-roman-to-integer](https://github.com/Narind1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Narind1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Narind1/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
@@ -89,6 +91,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -128,6 +131,7 @@ Will be posting LeetCode related solutions in this repo..
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
@@ -141,4 +145,5 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
