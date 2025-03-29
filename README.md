@@ -28,6 +28,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Narind1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Narind1/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
@@ -43,6 +44,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -105,6 +107,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0027-remove-element](https://github.com/Narind1/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Narind1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
