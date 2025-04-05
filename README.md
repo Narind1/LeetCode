@@ -19,6 +19,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0088-merge-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
@@ -49,12 +50,14 @@ Will be posting LeetCode related solutions in this repo..
 | [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Narind1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
@@ -125,6 +128,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0029-divide-two-integers](https://github.com/Narind1/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Stack
 |  |
@@ -183,4 +187,12 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0100-same-tree](https://github.com/Narind1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Narind1/LeetCode/tree/master/0101-symmetric-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
