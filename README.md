@@ -58,6 +58,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Narind1/LeetCode/tree/master/2050-count-good-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -80,6 +81,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0002-add-two-numbers](https://github.com/Narind1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Narind1/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Narind1/LeetCode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/Narind1/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
