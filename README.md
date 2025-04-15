@@ -22,6 +22,7 @@ Will be posting LeetCode related solutions in this repo..
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Narind1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Narind1/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -111,11 +112,13 @@ Will be posting LeetCode related solutions in this repo..
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -209,4 +212,20 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
