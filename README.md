@@ -22,6 +22,7 @@ Will be posting LeetCode related solutions in this repo..
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2249-count-the-hidden-sequences](https://github.com/Narind1/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -235,4 +236,8 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/Narind1/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
