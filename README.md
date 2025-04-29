@@ -29,6 +29,7 @@ Will be posting LeetCode related solutions in this repo..
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Narind1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Narind1/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Narind1/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Narind1/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Narind1/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -117,6 +118,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0003-longest-substring-without-repeating-characters](https://github.com/Narind1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Narind1/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Narind1/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
 | ------- |
