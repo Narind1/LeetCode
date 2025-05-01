@@ -22,6 +22,7 @@ Will be posting LeetCode related solutions in this repo..
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/Narind1/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -125,6 +126,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Narind1/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -154,6 +156,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Narind1/LeetCode/tree/master/0011-container-with-most-water) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0088-merge-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
@@ -256,4 +260,12 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Narind1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
