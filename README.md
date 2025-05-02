@@ -111,6 +111,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0058-length-of-last-word](https://github.com/Narind1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Narind1/LeetCode/tree/master/0068-text-justification) |
+| [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -151,6 +152,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0031-next-permutation](https://github.com/Narind1/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
+| [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -191,6 +193,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0022-generate-parentheses](https://github.com/Narind1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
 ## Memoization
 |  |
 | ------- |
