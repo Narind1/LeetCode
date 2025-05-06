@@ -22,6 +22,7 @@ Will be posting LeetCode related solutions in this repo..
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Narind1/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Narind1/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/Narind1/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -179,6 +180,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Narind1/LeetCode/tree/master/0068-text-justification) |
+| [2048-build-array-from-permutation](https://github.com/Narind1/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
