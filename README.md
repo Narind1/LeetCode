@@ -34,6 +34,7 @@ Will be posting LeetCode related solutions in this repo..
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Narind1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Narind1/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Narind1/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Narind1/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Narind1/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Narind1/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -267,6 +268,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Narind1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Narind1/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Queue
 |  |
 | ------- |
@@ -275,4 +277,16 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Narind1/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Matrix
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Narind1/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Narind1/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
