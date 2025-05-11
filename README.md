@@ -95,6 +95,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Narind1/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Narind1/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Narind1/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Narind1/LeetCode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Narind1/LeetCode/tree/master/2050-count-good-numbers) |
@@ -104,6 +105,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0003-longest-substring-without-repeating-characters](https://github.com/Narind1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Narind1/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Narind1/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Narind1/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Narind1/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Narind1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Narind1/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -197,6 +199,7 @@ Will be posting LeetCode related solutions in this repo..
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Narind1/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Narind1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
