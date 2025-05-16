@@ -33,6 +33,7 @@ Will be posting LeetCode related solutions in this repo..
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Narind1/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Narind1/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Narind1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Narind1/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Narind1/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -120,6 +121,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0068-text-justification](https://github.com/Narind1/LeetCode/tree/master/0068-text-justification) |
 | [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Narind1/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -206,6 +208,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Narind1/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
