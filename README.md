@@ -249,6 +249,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Narind1/LeetCode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Narind1/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Narind1/LeetCode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -274,6 +277,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0101-symmetric-tree](https://github.com/Narind1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Narind1/LeetCode/tree/master/0112-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
