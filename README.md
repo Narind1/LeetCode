@@ -260,6 +260,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0110-balanced-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Narind1/LeetCode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Narind1/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Narind1/LeetCode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Narind1/LeetCode/tree/master/0547-number-of-provinces) |
 ## Combinatorics
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Will be posting LeetCode related solutions in this repo..
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Narind1/LeetCode/tree/master/0547-number-of-provinces) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Narind1/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
@@ -334,4 +337,8 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Narind1/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Narind1/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
