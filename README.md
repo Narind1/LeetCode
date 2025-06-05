@@ -124,6 +124,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0020-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Narind1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Narind1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Narind1/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Narind1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
@@ -196,6 +197,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Narind1/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -220,6 +222,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Narind1/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Narind1/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
