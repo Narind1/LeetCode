@@ -15,6 +15,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Narind1/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Narind1/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Narind1/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Narind1/LeetCode/tree/master/0066-plus-one) |
@@ -147,6 +148,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Narind1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
