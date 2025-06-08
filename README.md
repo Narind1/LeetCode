@@ -166,6 +166,7 @@ Will be posting LeetCode related solutions in this repo..
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Narind1/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Narind1/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0110-balanced-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Narind1/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Narind1/LeetCode/tree/master/0112-path-sum) |
+| [0386-lexicographical-numbers](https://github.com/Narind1/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Narind1/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
