@@ -85,6 +85,7 @@ Will be posting LeetCode related solutions in this repo..
 | [1500-count-largest-group](https://github.com/Narind1/LeetCode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Narind1/LeetCode/tree/master/2050-count-good-numbers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Narind1/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Narind1/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Backtracking
@@ -198,6 +199,7 @@ Will be posting LeetCode related solutions in this repo..
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Narind1/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Narind1/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Narind1/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Bit Manipulation
 |  |
 | ------- |
