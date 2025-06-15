@@ -83,6 +83,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1500-count-largest-group](https://github.com/Narind1/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narind1/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Narind1/LeetCode/tree/master/2050-count-good-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Narind1/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -197,6 +198,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0011-container-with-most-water](https://github.com/Narind1/LeetCode/tree/master/0011-container-with-most-water) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Narind1/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narind1/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Narind1/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Narind1/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
