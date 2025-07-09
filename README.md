@@ -24,6 +24,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0068-text-justification](https://github.com/Narind1/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Narind1/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Narind1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Narind1/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -243,6 +244,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0022-generate-parentheses](https://github.com/Narind1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Narind1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Narind1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Narind1/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
