@@ -39,6 +39,7 @@ Will be posting LeetCode related solutions in this repo..
 | [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Narind1/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Narind1/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Narind1/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -90,6 +91,7 @@ Will be posting LeetCode related solutions in this repo..
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narind1/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Narind1/LeetCode/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Narind1/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Narind1/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narind1/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Narind1/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
