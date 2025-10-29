@@ -42,6 +42,7 @@ Will be posting LeetCode related solutions in this repo..
 | [2432-number-of-zero-filled-subarrays](https://github.com/Narind1/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3034-points-that-intersect-with-cars](https://github.com/Narind1/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Narind1/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Narind1/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Narind1/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -68,6 +69,7 @@ Will be posting LeetCode related solutions in this repo..
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Narind1/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3034-points-that-intersect-with-cars](https://github.com/Narind1/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Narind1/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Narind1/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Narind1/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -344,6 +346,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/Narind1/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Narind1/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3034-points-that-intersect-with-cars](https://github.com/Narind1/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3639-zero-array-transformation-i](https://github.com/Narind1/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Heap (Priority Queue)
 |  |
