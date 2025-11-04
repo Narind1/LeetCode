@@ -28,6 +28,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0118-pascals-triangle](https://github.com/Narind1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Narind1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Narind1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Narind1/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -65,6 +66,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0041-first-missing-positive](https://github.com/Narind1/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Narind1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1500-count-largest-group](https://github.com/Narind1/LeetCode/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Narind1/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -160,6 +162,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Narind1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Narind1/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/Narind1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Narind1/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Narind1/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
