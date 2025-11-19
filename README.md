@@ -38,6 +38,7 @@ Will be posting LeetCode related solutions in this repo..
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Narind1/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Narind1/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Narind1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Narind1/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -71,6 +72,7 @@ Will be posting LeetCode related solutions in this repo..
 | [1500-count-largest-group](https://github.com/Narind1/LeetCode/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Narind1/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Narind1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narind1/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Narind1/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -244,6 +246,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Narind1/LeetCode/tree/master/0068-text-justification) |
 | [2048-build-array-from-permutation](https://github.com/Narind1/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Narind1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3447-clear-digits](https://github.com/Narind1/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
@@ -283,6 +286,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Narind1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
