@@ -69,6 +69,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Narind1/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Narind1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1500-count-largest-group](https://github.com/Narind1/LeetCode/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Narind1/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -95,6 +96,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0070-climbing-stairs](https://github.com/Narind1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Narind1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1500-count-largest-group](https://github.com/Narind1/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narind1/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
