@@ -31,6 +31,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Narind1/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Narind1/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Narind1/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Narind1/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Narind1/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -221,6 +222,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Narind1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Narind1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Narind1/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Narind1/LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narind1/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
