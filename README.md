@@ -33,6 +33,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0219-contains-duplicate-ii](https://github.com/Narind1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Narind1/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0704-binary-search](https://github.com/Narind1/LeetCode/tree/master/0704-binary-search) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Narind1/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Narind1/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narind1/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -187,6 +188,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0035-search-insert-position](https://github.com/Narind1/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Narind1/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Narind1/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Narind1/LeetCode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Narind1/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Narind1/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
