@@ -74,6 +74,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Narind1/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Narind1/LeetCode/tree/master/0242-valid-anagram) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Narind1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1500-count-largest-group](https://github.com/Narind1/LeetCode/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -162,6 +163,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Narind1/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Narind1/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Narind1/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Narind1/LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -297,6 +299,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0075-sort-colors](https://github.com/Narind1/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Narind1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Narind1/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Narind1/LeetCode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Narind1/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Narind1/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
