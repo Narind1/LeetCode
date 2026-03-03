@@ -103,6 +103,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0189-rotate-array](https://github.com/Narind1/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Narind1/LeetCode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Narind1/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Narind1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1500-count-largest-group](https://github.com/Narind1/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narind1/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -141,6 +142,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0024-swap-nodes-in-pairs](https://github.com/Narind1/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Narind1/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Narind1/LeetCode/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Narind1/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/Narind1/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -245,6 +247,7 @@ Will be posting LeetCode related solutions in this repo..
 | ------- |
 | [0029-divide-two-integers](https://github.com/Narind1/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Narind1/LeetCode/tree/master/0067-add-binary) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Narind1/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Narind1/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narind1/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Stack
