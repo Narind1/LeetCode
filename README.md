@@ -168,6 +168,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0242-valid-anagram](https://github.com/Narind1/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Narind1/LeetCode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
+| [1143-longest-common-subsequence](https://github.com/Narind1/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2107-find-unique-binary-string](https://github.com/Narind1/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Narind1/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Narind1/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -288,6 +289,7 @@ Will be posting LeetCode related solutions in this repo..
 | [0119-pascals-triangle-ii](https://github.com/Narind1/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0368-largest-divisible-subset](https://github.com/Narind1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0868-push-dominoes](https://github.com/Narind1/LeetCode/tree/master/0868-push-dominoes) |
+| [1143-longest-common-subsequence](https://github.com/Narind1/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Narind1/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Memoization
 |  |
